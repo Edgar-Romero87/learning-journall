@@ -20,3 +20,5 @@ learning journal
 [Structures of Web Pages with HTML](content/read04html.md)
 
 [Markdown & Terminal Commands](content/class3review.md)
+
+[Operators and Loops](content/read08operators&loops.md)
