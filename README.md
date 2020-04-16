@@ -1,7 +1,14 @@
 # learning-journall
 learning journal
 
-# Edgar
+# About Me
+
+
+
+
+
 ## Learning journal content
 
 [Growth Mindset](content/growthmindset.md)
+
+[JavaScript](content/read06a.md)
