@@ -1,13 +1,13 @@
 # learning-journall
 learning journal
 
-# About Me
+# **About Me**
 
 
 
 
 
-## Learning journal content
+## **Table of content**
 
 [Growth Mindset](content/growthmindset.md)
 
